@@ -62,6 +62,7 @@ le jeu correspond à un Labyrinthe dans lequel :
 
  - labyrinth_v01.blend : contient le jeu principale à prendre en considération
  - labyrinth_v01.blend.exe : l'application du jeu 
+ - INF5071.pptx : Le document utilisé pour la présentation orale.
 
 
  6 - Ressources utilisées
