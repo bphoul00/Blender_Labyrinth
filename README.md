@@ -2,8 +2,7 @@
   UQAM - Automne 2016 - INF5071 - Groupe 30.
   Projet	     : Labyrinthe style PAC-MAN GAME 
   Enseignant	     : Alexandre Blondin Massé
-  Auteurs   	     : ALLAMOU Fatima-Ezzahra	
-		       Houl Bernard
+  Auteurs   	     : ALLAMOU Fatima-Ezzahra, Houl Bernard  Code Permanant  	 : ALLF09628903 , HOUB12219001  
   Version du         : 2 novembre 2016
 
 ==========================================================================
@@ -35,18 +34,17 @@ le jeu correspond à un Labyrinthe dans lequel :
 	- Pour exécuter le jeu, il suffit de cliquer
 	 sur la touche "p" du clavier.
 	- Pour jouer il suffit d'utiliser les touches
-	 du clavier (UP, DOWN, LEFT ET RIGHT)
-	- le joueur incarne PAC- MAN (Boule en jaune)
+	 du clavier (W,A,S,D)
 	- l'adversaire (Boule en rouge)
 	- les bonus (Boules en rouge et blanc)
 
 
  - À partir de l'application :
 	- le jeu est importé en Game Engine Runtime(.exe)
-	- il suffit de lancer l'application labyrinth_v01.blend.exe
+	- il suffit de lancer l'application labyrinth_v02.blend.exe
 	- Pour jouer il suffit d'utiliser les touches
-	 du clavier (UP, DOWN, LEFT ET RIGHT)
-	- le joueur incarne PAC- MAN (Boule en jaune)
+	 du clavier (W, A ,S et	 D)
+	- le joueur incarne une personnage humain
 	- l'adversaire (Boule en rouge)
 	- les bonus (Boules en rouge et blanc)
 
@@ -61,7 +59,7 @@ le jeu correspond à un Labyrinthe dans lequel :
  ==========================================================
 
  - labyrinth_v01.blend : contient le jeu principale à prendre en considération
- - labyrinth_v01.blend.exe : l'application du jeu 
+ - labyrinth_v02.blend.exe : l'application du jeu 
  - INF5071.pptx : Le document utilisé pour la présentation orale.
 
 
