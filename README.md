@@ -1,43 +1,80 @@
-# INF5071_Project1
-INF5071 Automne Project 1 TP1
+==========================================================================
+  UQAM - Automne 2016 - INF5071 - Groupe 30.
+  Projet	     : Labyrinthe style PAC-MAN GAME 
+  Enseignant	     : Alexandre Blondin Massé
+  Auteurs   	     : ALLAMOU Fatima-Ezzahra	
+		       Houl Bernard
+  Version du         : 2 novembre 2016
+
+==========================================================================
 
-Pour faire fonctionner le jeu, il suffit de cliquer sur la touche "p" du clavier
-Pour jouer il suffit d'utiliser les touche du clavier (UP, DOWN, LEFT ET RIGHT)
-le joueur incarne PAC- MAN (boule en jaune)
-Adversaire ( boule en rouge)
+ 1 - Présentation
+ 2 - Configuration requise
+ 3 - Exécution
+ 4 - Technologies utilisées
+ 5 - Répertoire et sous-répertoires
+ 6 - Ressources utilisées
+ 
 
-le joueur doit selectionné tous les boules grises avant d'être attraper par l'adversaire
+ 1 - Présentation
+ ==========================================================
+le jeu correspond à un Labyrinthe dans lequel :
+ - Le joueur incarne un personnage(PAC-MAN)dans un labyrinthe. 
+ - Le joueur doit s'échappé à des ennemis(Boule en rouge)et contourné les pièges.
+ - Il doit manger des bonus.
 
-Travail à faire 
 
-ajouter des yeux et la bouche à pack- man
-ajouter des yeux et la bouche à l'adversaire
-appliquer une texture aux boules grises
-exporter le jeux 
+ 2 - Configuration 
+ ==========================================================
+ Aucune configuration requise.
 
-Plan de travail
 
-Labyrinth
+ 3 - Exécution
+ ==========================================================
+ - À partir de Blender :
+	- Pour exécuter le jeu, il suffit de cliquer
+	 sur la touche "p" du clavier.
+	- Pour jouer il suffit d'utiliser les touches
+	 du clavier (UP, DOWN, LEFT ET RIGHT)
+	- le joueur incarne PAC- MAN (Boule en jaune)
+	- l'adversaire (Boule en rouge)
+	- les bonus (Boules en rouge et blanc)
 
-Terrain
-- Mesh
-- One theme
-optional: more theme if we have more time.
 
-Main Character
-- Move
-- humain
+ - À partir de l'application :
+	- le jeu est importé en Game Engine Runtime(.exe)
+	- il suffit de lancer l'application labyrinth_v01.blend.exe
+	- Pour jouer il suffit d'utiliser les touches
+	 du clavier (UP, DOWN, LEFT ET RIGHT)
+	- le joueur incarne PAC- MAN (Boule en jaune)
+	- l'adversaire (Boule en rouge)
+	- les bonus (Boules en rouge et blanc)
 
-Mechant
-- Zombie
-- 4 bonhomme
 
-1 semaine
-Form des bonhomme finit
-Terrain finit
+ 4 - Technologies utilisées
+ ==========================================================
+ - Blender
+ - Python
 
-2 semaine 
-Coloring
-Commencer coder
+
+ 5 - Répertoire et sous-répertoires
+ ==========================================================
+
+ - labyrinth_v01.blend : contient le jeu principale à prendre en considération
+ - labyrinth_v01.blend.exe : l'application du jeu 
+ - INF5071.pptx : Le document utilisé pour la présentation orale.
+
+
+ 6 - Ressources utilisées
+ ==========================================================
+ Tutoriels	:
+	- https://www.youtube.com/watch?v=biwfzve1G8Y
+	- https://www.youtube.com/watch?v=T6rRYe4MuH0
+	- https://www.youtube.com/watch?v=E095iC1VEj0
+	
+	
+ Images	   	: 
+	- sont principalement des images libre droit,
+	  récupérés à partir de google images.
 
 
